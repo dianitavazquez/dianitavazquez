@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dianitavazquez/dianitavazquez/main/Banner-Github-Diana-Vazquez.png" alt="Diana Vázquez Banner" width="100%">
+</p>
+
+<br>
+
 <h1 align="center"> Hi, I'm Diana Vázquez 🤍 </h1>
 
 **Senior QA Automation Engineer | Transitioning into Machine Learning & AI Engineering | Human-Centered Tech Builder**
