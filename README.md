@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/dianitavazquez/dianitavazquez/main/.png" alt="Diana Vázquez Banner" width="100%">
-</p>
+</p> -->
 
 <br>
 
