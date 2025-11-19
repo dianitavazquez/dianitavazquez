@@ -1,4 +1,4 @@
-# Hi, I'm Diana Vázquez 🤍
+<h1 align="center"> Hi, I'm Diana Vázquez 🤍 </h1>
 
 **Senior QA Automation Engineer | Transitioning into Machine Learning & AI Engineering | Human-Centered Tech Builder**
 
