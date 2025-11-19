@@ -1,4 +1,4 @@
-# Hi, I'm Diana 🤍
+# Hi, I'm Diana Vázquez 🤍
 
 **Senior QA Automation Engineer | Transitioning into Machine Learning & AI Engineering | Human-Centered Tech Builder**
 
@@ -54,7 +54,7 @@ Git · CI/CD · Docker (basic) · Jira · Agile/Scrum
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** *https://www.linkedin.com/in/diana-v%C3%A1zquez-624bb1123/*  
+- **LinkedIn:** *https://www.linkedin.com/in/diana-vázquez-624bb1123/*  
 - **Email:** *diana.vazquezdeniz@gmail.com*  
 
 Thanks for stopping by — always happy to connect, collaborate, or build something meaningful through AI. 🤍
