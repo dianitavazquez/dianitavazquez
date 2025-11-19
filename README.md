@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dianitavazquez/dianitavazquez/main/Banner-Github-Diana-Vazquez.png" alt="Diana Vázquez Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/dianitavazquez/dianitavazquez/main/.png" alt="Diana Vázquez Banner" width="100%">
 </p>
 
 <br>
