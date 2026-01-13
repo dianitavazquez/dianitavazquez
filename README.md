@@ -14,7 +14,7 @@ My work blends solid engineering foundations with my growing path in ML/AI — a
 ---
 
 ## ✨ About Me
-- 🧪 7+ years in QA Automation (Frontend, API & Performance)  
+- 🧪 8 years in QA Automation (Frontend, API & Performance)  
 - ⚙️ Strong engineering background with deep understanding of system behavior & data flows  
 - 🤖 Currently transitioning into Machine Learning & AI Engineering  
 - 🌱 Learning advanced Python, data processing, ML fundamentals & LLM applications  
