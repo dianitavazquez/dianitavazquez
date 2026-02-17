@@ -6,20 +6,20 @@
 
 <h1 align="center"> Hi, I'm Diana Vázquez 🤍 </h1>
 
-**Senior QA Automation Engineer | Transitioning into Machine Learning & AI Engineering | Human-Centered Tech Builder**
+**Automation Architect | M.Sc. Applied Artificial Intelligence student | Quality Assurance Specialist**
 
 I create reliable, meaningful digital experiences through quality, curiosity, and intentional design.  
-My work blends solid engineering foundations with my growing path in ML/AI — always focused on clarity, simplicity, and real-world impact.
+My work blends solid engineering foundations with my growing path in ML/AI. Always focused on clarity, simplicity, and real-world impact.
 
 ---
 
 ## ✨ About Me
-- 🧪 8 years in QA Automation (Frontend, API & Performance)  
+- 🧪 8 years in QA Automation (UI, API, Performance, Security, CI/CD)  
 - ⚙️ Strong engineering background with deep understanding of system behavior & data flows  
 - 🤖 Currently transitioning into Machine Learning & AI Engineering  
-- 🌱 Learning advanced Python, data processing, ML fundamentals & LLM applications  
-- 💛 Passionate about building ethical, useful, and human-centered AI solutions  
-- ✍️ Creative by nature — writing, learning, and personal growth fuel my work  
+- 🌱 Learning advanced Python, data science & analytics, ML fundamentals & LLM applications  
+- 💛 Passionate about building ethical, useful, and human-centered product solutions  
+- ✍️ Creative by nature: writing, learning, and personal growth fuel my work  
 
 ---
 
@@ -34,11 +34,11 @@ Prompt Engineering · LLM-based workflows · Vector databases
 
 **Testing & Engineering:**  
 Playwright · Cypress · TestCafe  
-Selenium · Protractor · Serenity BDD  
-Postman · RestAssured · JMeter · Artillery · Veracode  
+Selenium · Protractor · Serenity BDD · Artillery
+Postman · Newman · RestAssured · JMeter · Veracode  
 
 **Tools:**  
-Git · CI/CD · Docker (basic) · Jira · Agile/Scrum  
+Git · Jenkins · Docker (basic) · Jira · Confluence 
 
 ---
 
